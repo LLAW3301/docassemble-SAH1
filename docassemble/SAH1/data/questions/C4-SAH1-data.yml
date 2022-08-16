@@ -11,22 +11,26 @@ data:
       - Adelaide North
       - Adelaide South
     clients:
-      - Domestic violence
+      - DV
+    phone_number: 8379 7223
   - service_name: Foyer Port Adelaide
     location:
       - Adelaide North
     clients:
       - Youth
+    phone_number: 8447 1090
   - service_name: Kurlana Tampawardli (Aboriginal Transitional Housing and Support Service)
     location:
       - Adelaide North
     clients:
       - ATSI
+    phone_number: 8202 5610
   - service_name: Inner North and North East Youth Homelessness Service
     location:
       - Adelaide North
     clients:
       - Youth
+    phone_number: 8397 9333
   - service_name: Inner and Outer Northern Homelessness Service
     location: 
       - Adelaide North
@@ -34,11 +38,13 @@ data:
       - Families
       - Adults
       - Youth
+    phone_number: 1800 569 086
   - service_name: Northern Adelaide Domestic Violence Service
     location:
       - Adelaide North
     clients:
       - DV
+    phone_number: 8255 3622
   - service_name: Nunga Mi:Minar - Northern Regional Domestic and Aboriginal Family Violence Service
     location:
       - Adelaide North
@@ -46,11 +52,13 @@ data:
     clients:
       - DV
       - ATSI
+    phone_number: 8367 6474
   - service_name: Outer North Youth Homelessness Service
     location:
       - Adelaide North
     clients:
       - Youth
+    phone_number: 8412 9570
   - service_name: Western Adelaide Youth and Generic Homelessness Service
     location:
       - Adelaide North
@@ -58,16 +66,19 @@ data:
       - Families
       - Adults
       - Youth
+    phone_number: 8440 2110
   - service_name: Western Adelaide Aboriginal Specific Homelessness Service
     location:
       - Adelaide North
     clients:
       - ATSI
+    phone_number: 8243 1698
   - service_name: Eastern Adelaide Domestic Violence Service
     location:
       - Adelaide South
     clients:
       - DV
+    phone_number: 8365 5033
   - service_name: Ninko Kurtangga Patpangga - Southern Regional Aboriginal Domestic Violence and Family Violence Service
     location:
       - Adelaide South
@@ -75,11 +86,13 @@ data:
     clients:
       - DV
       - ATSI
+    phone_number: 8297 9644
   - service_name: Southern Adelaide Domestic Violence Service
     location:
       - Adelaide South
     clients:
       - DV
+    phone_number: 8382 0066
   - service_name: Toward Home
     location: 
       - Adelaide South
@@ -88,6 +101,7 @@ data:
       - Adults
       - Youth
       - ATSI
+    phone_number: 1800 809 273
   - service_name: Ceduna Homelessness Service
     location:
       - Country North
@@ -95,6 +109,7 @@ data:
       - Families
       - Adults
       - Youth
+    phone_number: 8628 7600
   - service_name: Coober Pedy Homelessness and Domestic Violence and Family Violence Service
     location:
       - Country North
@@ -104,21 +119,25 @@ data:
       - Youth
       - DV
       - ATSI
+    phone_number: 8633 9095
   - service_name: "NPY Women's Domestic Violence and Family Violence Service"
     location:
       - Country North
     clients:
       - DV
       - ATSI
+    phone_number: 8958 2374
   - service_name: Port Augusta Youth Homelessness Service
     location:
       - Country North
     clients:
       - Youth
+    phone_number: 7628 3100
   - service_name: Port Augusta Regional Domestic Violence and Aboriginal Family Violence Service
       - Country North
     clients:
       - DV
+    phone_number: 7628 3101
   - service_name: Port Lincoln and Surrounds Homelessness Service
     location: 
       - Country North
@@ -127,6 +146,7 @@ data:
       - Adults
       - Youth
       - ATSI
+    phone_number: 8683 0072
   - service_name: The Salvation Army Port Augusta Homelessness Service
     location:
       - Country North
@@ -134,11 +154,13 @@ data:
       - Families
       - Adults
       - Youth
+    phone_number: 8641 1021
   - service_name: Wangka Wilurrara Transitional Accommodation Centre - Cenduna
     location:
       - Country North
     clients:
       - ATSI
+    phone_number: 8625 3522
   - service_name: Whyalla Homelessness Service
     location:
       - Country North
@@ -148,6 +170,7 @@ data:
       - Youth
       - DV
       - ATSI
+    phone_number: 8215 6370
   - service_name: Yorke and Mid North Homelessness Service
     location: 
       - Country North
@@ -156,6 +179,7 @@ data:
       - Adults
       - Youth
       - DV
+    phone_number: 8633 8600
   - service_name: Fleurieu and Kangaroo Island Homelessness Service
     location:
       - Country South
@@ -164,6 +188,7 @@ data:
       - Adults
       - Youth
       - DV
+    phone_number: 8392 3060
   - service_name: Murray Bridge Homelessness Service
     location: 
       - Country South
@@ -171,11 +196,13 @@ data:
       - Families
       - Adults
       - Youth
+    phone_number: 8531 4900
   - service_name: Murray Mallee and Adelaide Hills Domestic Violence Service
     location:
       - Country South
     clients:
       - DV
+    phone_number: 8215 6320
   - service_name: Riverland Homelessness Service
     location:
       - Country South
@@ -183,11 +210,13 @@ data:
       - Families
       - Adults
       - Youth
+    phone_number: 8580 5300
   - service_name: Riverland Domestic Violence Service
     location:
       - Country South
     clients:
       - DV
+    phone_number: 8215 6380
   - service_name: Common Ground
     location:
       - Adelaide North
@@ -196,6 +225,7 @@ data:
       - Country South
     clients:
       - Adults
+    phone_number: 1300 312 447
   - service_name: Domestic Violence Crisis Line (DVCL)
     location:
       - Adelaide North
@@ -204,6 +234,7 @@ data:
       - Country South
     clients:
       - DV
+    phone_number: 1800 800 098
   - service_name: Ex-Custodial Homelessness Support Service and Integrated Housing Exits Program
     location:
       - Adelaide North
@@ -212,6 +243,7 @@ data:
       - Country South
     clients:
       - Adults
+    phone_number: 8218 0700
   - service_name: Homeless Connect SA
     location:
       - Adelaide North
@@ -224,6 +256,7 @@ data:
       - Youth
       - DV
       - ATSI
+    phone_number: 1800 003 308
   - service_name: "Migrant Women's Support Program"
     location:
       - Adelaide North
@@ -232,6 +265,7 @@ data:
       - Country South
     clients:
       - DV
+    phone_number: 8152 9260
   - service_name: RentRight SA
     location:
       - Adelaide North
@@ -244,6 +278,7 @@ data:
       - Youth
       - DV
       - ATSI
+    phone_number: 1800 060 462
   - service_name: Therapeutic Youth Service
     location:
       - Adelaide North
@@ -252,6 +287,7 @@ data:
       - Country South
     clients:
       - Youth
+    phone_number: 1800 615 677
   - service_name: Together 4 Kids Child Focused Support
     location:
       - Adelaide North
@@ -261,6 +297,7 @@ data:
     clients:
       - Families
       - Youth
+    phone_number: 8245 8190
   - service_name: UNO and Youth 110
     location:
       - Adelaide North
@@ -269,6 +306,7 @@ data:
       - Country South
     clients:
       - Youth
+    phone_number: 8231 3314
   - service_name: Young Family Support Program
     location:
       - Adelaide North
@@ -278,4 +316,5 @@ data:
     clients:
       - Families
       - Youth
+    phone_number: 8303 6610
 ---
