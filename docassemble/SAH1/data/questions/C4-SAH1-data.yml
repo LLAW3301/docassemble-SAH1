@@ -1,0 +1,281 @@
+---
+# All homelessness services are listed below
+# Your code needs to cycle through this list
+# and add any services which match the search
+# criteria your user has entered.
+variable name: SAH_serviceslist
+use objects: True
+data:
+  - service_name: Bramwell House - Adelaide Domestic Violence Crisis Accommodation Service
+    location:
+      - Adelaide North
+      - Adelaide South
+    clients:
+      - Domestic violence
+  - service_name: Foyer Port Adelaide
+    location:
+      - Adelaide North
+    clients:
+      - Youth
+  - service_name: Kurlana Tampawardli (Aboriginal Transitional Housing and Support Service)
+    location:
+      - Adelaide North
+    clients:
+      - ATSI
+  - service_name: Inner North and North East Youth Homelessness Service
+    location:
+      - Adelaide North
+    clients:
+      - Youth
+  - service_name: Inner and Outer Northern Homelessness Service
+    location: 
+      - Adelaide North
+    clients:
+      - Families
+      - Adults
+      - Youth
+  - service_name: Northern Adelaide Domestic Violence Service
+    location:
+      - Adelaide North
+    clients:
+      - DV
+  - service_name: Nunga Mi:Minar - Northern Regional Domestic and Aboriginal Family Violence Service
+    location:
+      - Adelaide North
+      - Country North
+    clients:
+      - DV
+      - ATSI
+  - service_name: Outer North Youth Homelessness Service
+    location:
+      - Adelaide North
+    clients:
+      - Youth
+  - service_name: Western Adelaide Youth and Generic Homelessness Service
+    location:
+      - Adelaide North
+    clients:
+      - Families
+      - Adults
+      - Youth
+  - service_name: Western Adelaide Aboriginal Specific Homelessness Service
+    location:
+      - Adelaide North
+    clients:
+      - ATSI
+  - service_name: Eastern Adelaide Domestic Violence Service
+    location:
+      - Adelaide South
+    clients:
+      - DV
+  - service_name: Ninko Kurtangga Patpangga - Southern Regional Aboriginal Domestic Violence and Family Violence Service
+    location:
+      - Adelaide South
+      - Country South
+    clients:
+      - DV
+      - ATSI
+  - service_name: Southern Adelaide Domestic Violence Service
+    location:
+      - Adelaide South
+    clients:
+      - DV
+  - service_name: Toward Home
+    location: 
+      - Adelaide South
+    clients:
+      - Families
+      - Adults
+      - Youth
+      - ATSI
+  - service_name: Ceduna Homelessness Service
+    location:
+      - Country North
+    clients:
+      - Families
+      - Adults
+      - Youth
+  - service_name: Coober Pedy Homelessness and Domestic Violence and Family Violence Service
+    location:
+      - Country North
+    clients:
+      - Families
+      - Adults
+      - Youth
+      - DV
+      - ATSI
+  - service_name: "NPY Women's Domestic Violence and Family Violence Service"
+    location:
+      - Country North
+    clients:
+      - DV
+      - ATSI
+  - service_name: Port Augusta Youth Homelessness Service
+    location:
+      - Country North
+    clients:
+      - Youth
+  - service_name: Port Augusta Regional Domestic Violence and Aboriginal Family Violence Service
+      - Country North
+    clients:
+      - DV
+  - service_name: Port Lincoln and Surrounds Homelessness Service
+    location: 
+      - Country North
+    clients:
+      - Families
+      - Adults
+      - Youth
+      - ATSI
+  - service_name: The Salvation Army Port Augusta Homelessness Service
+    location:
+      - Country North
+    clients:
+      - Families
+      - Adults
+      - Youth
+  - service_name: Wangka Wilurrara Transitional Accommodation Centre - Cenduna
+    location:
+      - Country North
+    clients:
+      - ATSI
+  - service_name: Whyalla Homelessness Service
+    location:
+      - Country North
+    clients:
+      - Families
+      - Adults
+      - Youth
+      - DV
+      - ATSI
+  - service_name: Yorke and Mid North Homelessness Service
+    location: 
+      - Country North
+    clients:
+      - Families
+      - Adults
+      - Youth
+      - DV
+  - service_name: Fleurieu and Kangaroo Island Homelessness Service
+    location:
+      - Country South
+    clients:
+      - Families
+      - Adults
+      - Youth
+      - DV
+  - service_name: Murray Bridge Homelessness Service
+    location: 
+      - Country South
+    clients:
+      - Families
+      - Adults
+      - Youth
+  - service_name: Murray Mallee and Adelaide Hills Domestic Violence Service
+    location:
+      - Country South
+    clients:
+      - DV
+  - service_name: Riverland Homelessness Service
+    location:
+      - Country South
+    clients:
+      - Families
+      - Adults
+      - Youth
+  - service_name: Riverland Domestic Violence Service
+    location:
+      - Country South
+    clients:
+      - DV
+  - service_name: Common Ground
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - Adults
+  - service_name: Domestic Violence Crisis Line (DVCL)
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - DV
+  - service_name: Ex-Custodial Homelessness Support Service and Integrated Housing Exits Program
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - Adults
+  - service_name: Homeless Connect SA
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - Families
+      - Adults
+      - Youth
+      - DV
+      - ATSI
+  - service_name: "Migrant Women's Support Program"
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - DV
+  - service_name: RentRight SA
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - Families
+      - Adults
+      - Youth
+      - DV
+      - ATSI
+  - service_name: Therapeutic Youth Service
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - Youth
+  - service_name: Together 4 Kids Child Focused Support
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - Families
+      - Youth
+  - service_name: UNO and Youth 110
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - Youth
+  - service_name: Young Family Support Program
+    location:
+      - Adelaide North
+      - Adelaide South
+      - Country North
+      - Country South
+    clients:
+      - Families
+      - Youth
+---
