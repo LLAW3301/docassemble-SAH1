@@ -134,6 +134,7 @@ data:
       - Youth
     phone_number: 7628 3100
   - service_name: Port Augusta Regional Domestic Violence and Aboriginal Family Violence Service
+    location:
       - Country North
     clients:
       - DV
